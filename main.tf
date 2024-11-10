@@ -3,7 +3,7 @@ terraform {
     organization = "csw24"
 
     workspaces {
-      name = "value"
+      name = "terraform_cloud_test"
     }
   }
 }
